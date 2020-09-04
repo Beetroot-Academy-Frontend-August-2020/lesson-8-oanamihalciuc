@@ -1,0 +1,130 @@
+.links {
+    /* text-align: right; */
+    display: inline;
+  }
+
+.links li {
+    display: inline;
+    padding: 10px;
+    position: relative;
+    left: 1000px;
+}
+
+nav, section {
+    background-color: #F8F8F8;
+}
+
+.description {
+    width: 400px;
+    padding: 10px;
+    margin: 5px;
+    /* border: 1px solid gray; */
+}
+
+#preview {
+    margin-left:300px;
+}
+
+#agency {
+    color: blue;
+}
+
+#grow {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.description button {
+    background-color: orange;
+    color: white;
+    height: 35px;
+}
+
+.description {
+    display: inline-block;
+}
+
+#ourservices, #robust {
+    color: blue;
+    text-align: center;
+}
+  
+#theme {
+    text-align: center;
+    font-size: 20px;
+}
+
+.a, .b {
+    display: inline-block;
+    width: 200px;
+    height: 80px;
+    padding: 10px;
+    margin: 10px;
+    /* border: 1px solid blue; */
+  }
+
+#winning {
+      margin-left: 350px;
+    }
+
+#numbers {
+    margin-left: 400px;
+}
+
+.a {
+    text-align: center;
+}
+
+.reason span{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.parent .plus {
+    color: orange;
+}
+
+.parent p {
+    color: blue;
+}
+
+.figures {
+    font-size: 25px;
+}
+
+.parent {
+    /* border: 1px solid black; */
+    margin-top: 20px;
+    background-color: #F8F8F8;
+  }
+
+#about {
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+}
+
+.c {
+    display: inline-block;
+    width: 350px;
+    height: 200px;
+    padding: 10px;
+    margin: 5px;
+    /* border: 1px solid black; */
+  }
+
+#paragraph1 {
+    margin-left: 250px;
+    vertical-align: top
+}
+
+.client {
+    display: inline-block;
+    padding: 20px;
+    /* border: 1px solid black; */
+    margin: 10px; 
+}
+
+#firstclient {
+    margin-left: 300px;
+}
