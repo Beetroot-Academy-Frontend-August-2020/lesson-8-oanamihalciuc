@@ -1,0 +1,23 @@
+.parent {
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    background-color: red;
+}
+
+.child {
+    width: 300px;
+    height: 80px;
+    background-color: white;
+}
+
+#horizontal {
+    margin-top: 150px;
+    margin-left: 50px;
+}
+
+#vertical {
+    margin-top: -76px;
+    margin-left: 50px;
+    transform: rotate(90deg);
+}
